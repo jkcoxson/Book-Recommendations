@@ -1,0 +1,172 @@
+ben: ['(cust8, ben)']ben:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), 
+moose: ['(cust8, moose)']moose:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), 
+reuven: ['(cust8, reuven)']reuven:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), 
+cust1: ['(cust8, cust1)']cust1:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), 
+cust2: ['(cust8, cust2)']cust2:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), 
+francois: ['(cust8, francois)']francois:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), 
+jim c: ['(cust8, jim c)']jim c:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), (Collins Suzanne, The Hunger Games), (Fitzgerald F., The Great Gatsby), (Flanagan John, Ranger's Apprentice Series), (Funke Cornelia, Inkheart), (Gibson William, Neuromancer), (Golding William, Lord of the Flies), 
+iren: ['(cust8, iren)']iren:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), 
+cust3: ['(cust8, cust3)']cust3:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), 
+cust4: ['(cust8, cust4)']cust4:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), (Collins Suzanne, The Hunger Games), (Fitzgerald F., The Great Gatsby), (Flanagan John, Ranger's Apprentice Series), 
+cust5: ['(cust8, cust5)']cust5:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), (Collins Suzanne, The Hunger Games), (Fitzgerald F., The Great Gatsby), 
+cust6: ['(cust8, cust6)']cust6:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), 
+cust7: ['(cust8, cust7)']cust7:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), (Cabot Meg, The Princess Diaries), (Card Orson, Ender's Game), (Clancy Tom, The Hunt for Red October), (Collins Suzanne, The Hunger Games), (Fitzgerald F., The Great Gatsby), 
+cust8: ['(cust8, roflol)']cust8:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), 
+cust9: ['(cust9, cust9)']cust9:
+
+andrew: ['(andrew, andrew)']andrew:
+
+ma: ['(ma, ma)']ma:
+
+matt c: ['(matt c, matt c)']matt c:
+
+ocelot: ['(ocelot, ocelot)']ocelot:
+
+cust10: ['(cust10, cust10)']cust10:
+
+crom: ['(crom, crom)']crom:
+
+joe: ['(joe, joe)']joe:
+
+priscilla: ['(priscilla, priscilla)']priscilla:
+
+harry potter: ['(harry potter, harry potter)']harry potter:
+
+i. ned: ['(i. ned, i. ned)']i. ned:
+
+ender: ['(ender, ender)']ender:
+
+apollo: ['(apollo, apollo)']apollo:
+
+zax: ['(zax, zax)']zax:
+
+jaluka: ['(jaluka, jaluka)']jaluka:
+
+sanity: ['(sanity, sanity)']sanity:
+
+brix: ['(brix, brix)']brix:
+
+sage32: ['(sage32, sage32)']sage32:
+
+clipper: ['(clipper, clipper)']clipper:
+
+yjam: ['(yjam, yjam)']yjam:
+
+martin: ['(martin, martin)']martin:
+
+mike: ['(mike, mike)']mike:
+
+strongbad: ['(strongbad, strongbad)']strongbad:
+
+brian: ['(brian, brian)']brian:
+
+douglas anderson: ['(douglas anderson, douglas anderson)']douglas anderson:
+
+chrispeh: ['(chrispeh, chrispeh)']chrispeh:
+
+rudy a: ['(rudy a, rudy a)']rudy a:
+
+mclovin: ['(mclovin, mclovin)']mclovin:
+
+mike williams: ['(mike williams, mike williams)']mike williams:
+
+dude: ['(dude, dude)']dude:
+
+hideo: ['(hideo, hideo)']hideo:
+
+rudy ann: ['(rudy ann, rudy ann)']rudy ann:
+
+don wang: ['(don wang, don wang)']don wang:
+
+anna-carol: ['(anna-carol, anna-carol)']anna-carol:
+
+subria: ['(subria, subria)']subria:
+
+ella: ['(ella, ella)']ella:
+
+leslie: ['(leslie, leslie)']leslie:
+
+sam: ['(sam, sam)']sam:
+
+cedric jones: ['(cedric jones, cedric jones)']cedric jones:
+
+don wang: ['(don wang, don wang)']don wang:
+
+mclean: ['(mclean, mclean)']mclean:
+
+shannon: ['(shannon, shannon)']shannon:
+
+joshua: ['(joshua, joshua)']joshua:
+
+jeremy: ['(jeremy, jeremy)']jeremy:
+
+pablo sanchez: ['(pablo sanchez, pablo sanchez)']pablo sanchez:
+
+scream: ['(scream, scream)']scream:
+
+roflol: ['(roflol, roflol)']roflol:
+
+albus dumbledore: ['(albus dumbledore, albus dumbledore)']albus dumbledore:
+
+alexandra: ['(alexandra, alexandra)']alexandra:
+
+narwhals: ['(narwhals, narwhals)']narwhals:
+
+j-rok: ['(j-rok, j-rok)']j-rok:
+
+snoosh: ['(snoosh, snoosh)']snoosh:
+
+huxil: ['(huxil, huxil)']huxil:
+
+hidan: ['(hidan, hidan)']hidan:
+
+leah: ['(leah, leah)']leah:
+
+boxxy: ['(boxxy, boxxy)']boxxy:
+
+rosanna: ['(rosanna, rosanna)']rosanna:
+
+claire: ['(claire, claire)']claire:
+
+david: ['(david, david)']david:
+
+zachary: ['(zachary, zachary)']zachary:
+
+parseclaws: ['(parseclaws, parseclaws)']parseclaws:
+
+tiffany: ['(tiffany, tiffany)']tiffany:
+
+sidney: ['(sidney, sidney)']sidney:
+
+tony: ['(tony, tony)']tony:
+
+mark: ['(mark, mark)']mark:
+
+nunu: ['(nunu, nunu)']nunu:
+
+hamza ali: ['(hamza ali, hamza ali)']hamza ali:
+
+dencellia: ['(dencellia, dencellia)']dencellia:
+
+nathan: ['(nathan, nathan)']nathan:
+
+james: ['(james, james)']james:
+
+keeled: ['(keeled, keeled)']keeled:
+
+megan: ['(cust8, shannon)']megan:
+(Adams Douglas, The Hitchhiker's Guide To The Galaxy), (Adams Richard, Watership Down), (Albom Mitch, The Five People You Meet in Heaven), (Anderson Laurie, Speak), (Angelou Maya, I Know Why the Caged Bird Sings), (Asher Jay, Thirteen Reasons Why), (Asimov Isaac, Foundation Series), (Brashares Ann, The Sisterhood of the Travelling Pants), (Bray Libba, A Great and Terrible Beauty), (Brown Dan, The Da Vinci Code), 
